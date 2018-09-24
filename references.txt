@@ -1,0 +1,5 @@
+https://plot.ly/ipython-notebooks/principal-component-analysis/
+http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+https://za.investing.com
+https://stackoverflow.com/questions/22984335/recovering-features-names-of-explained-variance-ratio-in-pca-with-sklearn
+https://tex.stackexchange.com/questions/54990/convert-numpy-array-into-tabular
